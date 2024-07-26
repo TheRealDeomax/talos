@@ -1,0 +1,5 @@
+{
+  "image": "mcr.microsoft.com/openjdk/jdk:11-ubuntu",
+  "features": {
+  }
+}

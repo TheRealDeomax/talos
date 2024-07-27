@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/openjdk/jdk:11-ubuntu",
+  "image": "mcr.microsoft.com/dotnet/sdk:latest",
   "features": {
   }
 }
